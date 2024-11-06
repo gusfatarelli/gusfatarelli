@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gusfatarelli
 - 👀 I’m interested in learning how to code!
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning JAVA, Phyton and C#
 - 📫 How to reach me on gus.fatarelli@gmail.com
 
 <!---
